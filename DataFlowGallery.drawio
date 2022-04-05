@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-05T07:03:48.947Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="7v4gbJ12dbKk4s-bjllI" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-05T07:04:28.444Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="NXIXxaH8hMKMF6DSqjD4" version="17.4.0" type="github">
   <diagram id="wbPQOXq48W7J5PQ6TROL" name="Page-1">
     <mxGraphModel dx="1425" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
         <mxCell id="RjxIzfpkFI7FN8zelMpl-15" value="IGVC" style="rounded=0;whiteSpace=wrap;html=1;" parent="RjxIzfpkFI7FN8zelMpl-19" vertex="1">
           <mxGeometry y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RjxIzfpkFI7FN8zelMpl-16" value="IGViewModel" style="rounded=0;whiteSpace=wrap;html=1;" parent="RjxIzfpkFI7FN8zelMpl-19" vertex="1">
+        <mxCell id="RjxIzfpkFI7FN8zelMpl-16" value="&lt;b&gt;IGViewModel&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="RjxIzfpkFI7FN8zelMpl-19" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TtowXr5rPj4FiJJlH8JE-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RjxIzfpkFI7FN8zelMpl-21" target="RjxIzfpkFI7FN8zelMpl-9">
@@ -60,7 +60,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RjxIzfpkFI7FN8zelMpl-21" value="«GalleryHelper»&lt;br&gt;" style="html=1;strokeWidth=1;imageWidth=47;imageHeight=24;" parent="1" vertex="1">
+        <mxCell id="RjxIzfpkFI7FN8zelMpl-21" value="&lt;b&gt;«GalleryHelper»&lt;/b&gt;" style="html=1;strokeWidth=1;imageWidth=47;imageHeight=24;" parent="1" vertex="1">
           <mxGeometry x="535" y="770" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TtowXr5rPj4FiJJlH8JE-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RjxIzfpkFI7FN8zelMpl-21" target="RjxIzfpkFI7FN8zelMpl-14">
